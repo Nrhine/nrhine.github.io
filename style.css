@@ -1,10 +1,8 @@
 @font-face {
-    font-family: 'opendyslexic3regular';
-    src: url('opendyslexic3-regular-webfont.woff2') format('woff2'),
-        url('opendyslexic3-regular-webfont.woff') format('woff');
-    font-weight: normal;
+    font-family: 'opendyslexic';
+    src: url('https://dyslexicfonts.com/fonts/OpenDyslexic-Regular.otf');
     font-style: normal;
-
+    font-weight: normal;
 }
 
 #banner {
